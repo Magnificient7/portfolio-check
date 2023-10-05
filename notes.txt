@@ -1,0 +1,10 @@
+after creating the page to add locomotion means scroll down smothly=>
+search locomotive github
+copy css of locomotive and create a new css file ,link it
+go down and copy a function of js and connect
+search for locomotive js cdn =>  locomotive-scroll.min.js,click and copy the url and paste it
+inside the source of a new js
+
+
+now to create a new mouse follower- create a div above the main 
+and give style
